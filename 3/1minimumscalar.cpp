@@ -40,4 +40,3 @@ int main() {
     cout << "Minimum Scalar Product: " << result << endl;
 
     return 0;
-}
